@@ -14,7 +14,7 @@
    dempFlex4
    binh thuong
    ![picture4](https://user-images.githubusercontent.com/54875940/64916321-cb2fe480-d7a5-11e9-95b8-2d2d793c152c.PNG)
-   wieght nho hon 600px
+   <br>wieght nho hon 600px
    ![picture4_4](https://user-images.githubusercontent.com/54875940/64916326-e7338600-d7a5-11e9-8777-b0aa47f7efe1.PNG)
 
    
